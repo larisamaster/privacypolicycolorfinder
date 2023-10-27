@@ -1,4 +1,4 @@
-This privacy policy governs your use of the software application Color Finder for mobile devices that was created by AD PROJECT. The Application is a simple mobile app and can be used by people of any age.
+This privacy policy governs your use of the software application Color Finder Plus for mobile devices that was created by AD PROJECT. The Application is a simple mobile app and can be used by people of any age.
 
 What information does the Application obtain and how is it used? The Application does not collect any information from you. If the future version needs any information we will make sure it is needed for the app's function for you.
 
